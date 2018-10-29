@@ -1,0 +1,12 @@
+{
+  "name": "test-data-server",
+  "version": "1.0.0",
+  "description": "simple test server for papi social back end requests",
+  "main": "index.js",
+  "author": "Unwana Essien",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "json-server": "^0.14.0"
+  }
+}

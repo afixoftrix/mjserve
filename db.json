@@ -1,0 +1,57 @@
+{
+    "data": {
+        "read": {
+            "content": [
+                {
+                    "category": "",
+                    "title": "",
+                    "summary": "",
+                    "content": {},
+                    "imgURL": "",
+                    "tags": [],
+                    "date": ""
+                }
+            ]
+        },
+        "watch": {
+            "content": [
+                {
+                    "category": "",
+                    "subCategory": "",
+                    "title": "",
+                    "summary": "",
+                    "content": {},
+                    "videoURL": "",
+                    "tags": [],
+                    "date": ""
+                }
+            ]
+        },
+        "listen": {
+            "content": [
+                {
+                    "category": "",
+                    "title": "",
+                    "summary": "",
+                    "content": {},
+                    "audioURL": "",
+                    "tags": [],
+                    "date": ""
+                }
+            ]
+        },
+        "stream": {
+            "content": [
+                {
+                    "category": "",
+                    "title": "",
+                    "summary": "",
+                    "content": {},
+                    "streamURL": "",
+                    "tags": [],
+                    "date": ""
+                }
+            ]
+        }
+    }
+}
