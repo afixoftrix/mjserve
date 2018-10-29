@@ -8,5 +8,11 @@
   "private": true,
   "dependencies": {
     "json-server": "^0.14.0"
+  },
+  "git": {
+    "remotes": { 
+      "swipe": "git@github.com:SwipeMAX/papi-dummy-server.git",
+      "origin": "git@github.com:afixoftrix/mjserve.git"
+    }
   }
 }
